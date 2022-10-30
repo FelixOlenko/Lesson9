@@ -1,0 +1,8 @@
+/.idea/
+
+*.pyc
+*.py.save*
+
+*/config.py
+*/tokens.py
+*/db.db
